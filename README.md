@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Tailwind, NodeJS and exploring different frameworks to enhance my web development abilities.**
 
-- 📫 How to reach me **urnvgibran@gmail.com**
+- 📫 How to reach me **urvngibran@gmail.com**
 
 ## Connect with me:
 <p align="left">
