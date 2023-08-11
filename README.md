@@ -27,6 +27,6 @@
 ## Statistics
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urvangibran&show_icons=true&locale=en&layout=compact&theme=transparent" alt="urvangibran" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urvangibran&show_icons=true&locale=en&theme=transparent" alt="urvangibran" /></p>
+ 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urvangibran&theme=transparent" alt="urvangibran" /></p>
 <div/>
